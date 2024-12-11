@@ -13,7 +13,7 @@ library(lubridate)
 library(gridExtra)
 
 #setting the working directory
-setwd("C:/Users/Justus/BachelorsThesisJustus/Inflation-adjusted transactions/Bachelor's Thesis JF Code")
+#setwd("yourworkingdirectoy")
 
 ######################################################################################################################
 #MAPPING CATEGORIES TO THEIR MCC CODES and LATER TO COICOP
