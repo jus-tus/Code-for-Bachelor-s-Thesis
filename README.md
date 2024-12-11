@@ -3,4 +3,4 @@ Code for the following Thesis by J.F.: The Effect of Monetary Policy by the Swis
 
 This repository includes all the code used to create all graphs and tables for this empirical study.
 
-The card spending dataset by merchant category was retrieved from Monitoring Consumption Switzerland (https://monitoringconsumption.com/data/) while the monetary policy shocks were created using SARON futures prices obtained from Bloomberg.
+The card spending dataset by merchant category and merchant category mapping files were retrieved from Monitoring Consumption Switzerland (https://monitoringconsumption.com/data/) while the monetary policy shocks were created using SARON futures prices obtained from Bloomberg.
