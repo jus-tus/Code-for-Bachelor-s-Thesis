@@ -20,7 +20,7 @@ library(gridExtra)
 library(DescTools)
 
 #setting the working directory
-setwd("C:/Users/Justus/BachelorsThesisJustus/Inflation-adjusted transactions/Bachelor's Thesis JF Code")
+#setwd("yourworkingdirectoy")
 
 #load created r scripts
 source("InflationAdjusted_MerchantCategory_CardSpending.R")
