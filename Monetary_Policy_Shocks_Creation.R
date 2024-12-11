@@ -14,7 +14,7 @@ library(cowplot)
 
 
 #setting the working directory
-setwd("C:/Users/Justus/BachelorsThesisJustus/Inflation-adjusted transactions/Bachelor's Thesis JF Code")
+#setwd("yourworkingdirectoy")
 
 
 ######################################################################################################################
